@@ -10,7 +10,7 @@
 ## 
 ## ECERCICE 2:  
 ### Create a small chat that applies sockets and multithreading to be able to communicate between several clients, no graphical implementation is necessary.  
-![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/eclipse100.png) ![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/java100blue.png)   
+![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/VisualStudio100.png) ![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/java100blue.png)   
 
 :open_file_folder: TimeAndDate
 
