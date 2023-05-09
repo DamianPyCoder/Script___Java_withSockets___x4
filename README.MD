@@ -1,6 +1,8 @@
 ## 
 ## ECERCICE 1:
 ### Create a client-server communication to be able to send text and also have a graphic implementation.  
+![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/eclipse100.png)  
+  
 
 :books: sockets_basico_cliente_servidor_conNetbeans.rar
 
