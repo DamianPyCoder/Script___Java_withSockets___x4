@@ -8,7 +8,7 @@
 
 
 ## 
-## ECERCISE 2:  
+## ECERCISE 2 version A:  
 ### Create a small chat that applies sockets and multithreading to be able to communicate between several clients, no graphical implementation is necessary.  
 ![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/VisualStudio100.png) ![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/java100blue.png)   
 
@@ -17,11 +17,30 @@
 
 
 ## 
-## ECERCISE 3:  
+## ECERCISE 2 version B:  
 ### Exercise two evolves, so that it also allows you to send messages.  
 ![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/VisualStudio100.png) ![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/java100blue.png)   
 
 :open_file_folder: TimeAndDateAndMessage
+
+
+
+## 
+## ECERCISE 3 version A:  
+### Minichat.  
+![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/VisualStudio100.png) ![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/java100blue.png)   
+
+:open_file_folder: minichatCliente-Servidor
+
+
+
+
+## 
+## ECERCISE 3 version B:  
+### Minichat.  
+![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/VisualStudio100.png) ![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/java100blue.png)   
+
+:open_file_folder: minichatCliente-Cliente
 
 
 
