@@ -15,7 +15,7 @@
 
 :open_file_folder: TimeAndDate
 
-#### Version B: Exercise two evolves, so that it also allows you to send messages.  
+#### Version B: Now also is allows you to send messages.  
 
 :open_file_folder: TimeAndDateAndMessage
 
