@@ -30,15 +30,12 @@
 ### Minichat.  
 ![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/VisualStudio100.png) ![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/java100blue.png)   
 
+
+#### version A:  
+
 :open_file_folder: minichatCliente-Servidor
 
-
-
-
-## 
-## ECERCISE 3 version B:  
-### Minichat.  
-![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/VisualStudio100.png) ![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/java100blue.png)   
+#### version B:  
 
 :open_file_folder: minichatCliente-Cliente
 
